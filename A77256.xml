@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Oxonian antippodes, or, The Oxford anty-Parliament. First, setting forth who it is that calls that Parliament. Secondly, who they are that sit in that Parliament. Thirdly, what Parliament it is, when the members of it are in one body. Fourthly, to what end this Parliament is called. Fifthly, what they are for their religion, their lives and conversations, that beare armes in defence of that Parliament. Sixthly, that the Parliament now sitting at Westminster is the absolute lawfull Parliament. Seventhly, that whatsoever is done against this lawfull Parliament, is against God, the Protestant religion, the lawes of the land, and the liberty of the subjects. By I.B. Gent.</title>
+            <author>J. B. (John Brandon)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77256</idno>
+            <idno type="STC">Wing B4248</idno>
+            <idno type="STC">Thomason E31_8</idno>
+            <idno type="STC">ESTC R6818</idno>
+            <idno type="EEBO-CITATION">99873041</idno>
+            <idno type="PROQUEST">99873041</idno>
+            <idno type="VID">154553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154553)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E31[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Oxonian antippodes, or, The Oxford anty-Parliament. First, setting forth who it is that calls that Parliament. Secondly, who they are that sit in that Parliament. Thirdly, what Parliament it is, when the members of it are in one body. Fourthly, to what end this Parliament is called. Fifthly, what they are for their religion, their lives and conversations, that beare armes in defence of that Parliament. Sixthly, that the Parliament now sitting at Westminster is the absolute lawfull Parliament. Seventhly, that whatsoever is done against this lawfull Parliament, is against God, the Protestant religion, the lawes of the land, and the liberty of the subjects. By I.B. Gent.</title>
+                  <author>J. B. (John Brandon)</author>
+               </titleStmt>
+               <extent>[8], 33 [i.e. 32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lounds, and are to be sold at his shop neere Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: Jo. Brandon Gent.</note>
+                  <note>P. 32 misnumbered 33.</note>
+                  <note>Annotation on Thomason copy: the 4 in imprint date is crossed out and altered to 1643; "feb 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154553:1"/>
+            <pb facs="tcp:154553:1" rendition="simple:additions"/>
+            <p>THE OXONIAN ANTIPPODES, OR, The <hi>OXFORD</hi> Anty-Parliament.</p>
+            <list>
+               <item>Firſt, Setting forth who it is that calls that Parliament.</item>
+               <item>Secondly, Who they are that ſit in that Parliament.</item>
+               <item>Thirdly, What Parliament it is, when the Members of it are in one body.</item>
+               <item>Fourthly, To what end this Parliament is called.</item>
+               <item>Fifthly, What they are for their Religion, their lives and con<g ref="char:EOLhyphen"/>verſations, that beare Armes in defence of that Parlia<g ref="char:EOLhyphen"/>ment.</item>
+               <item>Sixthly, That the Parliament now ſitting at <hi>Weſtminſter</hi> is the abſolute lawfull Parliament.</item>
+               <item>Seventhly, That whatſoever is done againſt this Lawfull Par<g ref="char:EOLhyphen"/>liament, is againſt God, the Proteſtant Religion, the Lawes of the Land, and the Liberty of the Subjects.</item>
+            </list>
+            <p>By <hi>I.B.</hi> Gent.</p>
+            <p>LONDON, Printed for <hi>Richard Lounds,</hi> and are to be ſold at his ſhop neere Ludgate, 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154553:2"/>
+            <pb facs="tcp:154553:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>CURTEOUS READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He inexhauſted Treaſures of the never-dying vertues of this faith<g ref="char:EOLhyphen"/>full Parliament hath incouraged my quaking Pen to ſalute you, by preſenting unto your view, the weake indeavours of a Souldiers Quill; And the rather, to give ſatisfaction to the world, that I girt not ſword to my thigh, till ſuch time I well
+<pb facs="tcp:154553:3"/>
+weighed the reaſons that moved me to it, which were theſe; To defend the Proteſtant Religion, this lawfull Parliament, the Lawes of the Land, and my owne liberty, from the violence and op<g ref="char:EOLhyphen"/>preſsion of proffeſſed Papiſts, Traitours, and Re<g ref="char:EOLhyphen"/>bels. And now having ſome leiſure, being in my Winter quarters, after a ſad contemplation of my Countries miſery, I thought fit to ſpend ſome houres in compiling this undigeſted fragment, for the better ſatisfaction of ſome various conceipts that are amongſt us, and for the ſtopping the mouthes of malignant ſpirits, who with their ſtupidity flatter themſelves with the bare name of a King, never arguing to themſelves how farre a King may command, or what commands of the King the Subject may not obey. Now here is diſcovered how farre the Kings power doth ex<g ref="char:EOLhyphen"/>tend, to Command his ſubjects; And what Com<g ref="char:EOLhyphen"/>mands of the King the Subject may not obey. Here is ſet forth what the Ruler is by his Coun<g ref="char:EOLhyphen"/>ſell, and that a good King will not ſuffer wicked Counſellours to be about him; All I ſhall adde is one by his requeſt, courteouſly to accept my
+<pb facs="tcp:154553:3"/>
+weake labours: And how ever you pleaſe to cen<g ref="char:EOLhyphen"/>ſure, I wiſh you a contented life, and an honoura<g ref="char:EOLhyphen"/>ble death.</p>
+            <closer>
+               <signed>Yours faithfully affected, JO. BRANDON Gent.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154553:4"/>
+            <pb facs="tcp:154553:4"/>
+            <head>The Oxonian Antippodes, or the <hi>Oxford</hi> Anty-Parliament.</head>
+            <p>
+               <seg rend="decorInit">K</seg>Ings are appointed by God to go<g ref="char:EOLhyphen"/>vern the people committed to their charge with wiſdome and know<g ref="char:EOLhyphen"/>ledge, like <hi>Solomon</hi> who deſired of the Lord to give him wiſdome and knowledge, 2 <hi>Chron.</hi> the 7.10. that he might go out and in before the Lords people: for ſaith he, who can judge this thy people; as if he ſhould have ſaid that I may govern this thy people with wiſdome and knowledge, by eſtabli<g ref="char:EOLhyphen"/>ſhing to them a ſaveing Religion and wholſome Lawes both which include a comfortable Liber<g ref="char:EOLhyphen"/>tie as King <hi>Iehoſhaphat,</hi> 2 <hi>Chron.</hi> the 17 the 7, 8, 9. ver<g ref="char:EOLhyphen"/>ſes, in the third yeare of his Reigne, he ſent his Princes with divers of his Prieſts and Levites to <hi>Iudah,</hi> and with them the booke of the Law of the Lord, to teach the people of <hi>Iudah</hi> the Lawes that were written in that booke.</p>
+            <p>
+               <pb n="2" facs="tcp:154553:5"/>Now the Law of God expreſt in holy Scripture, is a Law that is written in the conſcience of eve<g ref="char:EOLhyphen"/>ry man, in the conſcience of the King ſo wel as in the conſcience of a Subject, which Law the Phi<g ref="char:EOLhyphen"/>loſophers call the Law of Nature, and the Law<g ref="char:EOLhyphen"/>yers call it the Law of Nations whereof the Law of <hi>Moſes</hi> is a plaine expoſition, hence it is that the fundamentall Lawes are grounded upon theſe Lawes, and the King is ſworne at his Coronation to maintaine them to the Subjects, with ſuch Re<g ref="char:EOLhyphen"/>ligion and Liberties as the ſame Lawes do a<g ref="char:EOLhyphen"/>low of.</p>
+            <p>It remains then that there is a Religion, Lawes, and Liberties belonging to the Subjects of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and they are to be maintained unto them by the King, whence is it then that our Religion, Lawes and Liberties, had long ere this been taken from us by him that is ſworn to maintain them to us? had not God of his great mercy ſtird up the hearts of a Parliament to ſtand for us? by reaſon his Majeſtie gave himſelfe over to evill Counſellers, he did chooſe rather to come in a hoſtile manner to the Houſe of Parliament, to accuſe five of his faithfulleſt Counſellers of high treaſon, then ſuffer to be brought to condigne puniſhment <hi>Digby,</hi> or <hi>Germin,</hi> or <hi>Windibancke,</hi> who are known Traytors to this State and Kingdome, ſuch Counſellours they are ro him as <hi>Ahab</hi> was, and <hi>Ahaziahs</hi> mo<g ref="char:EOLhyphen"/>ther was to him, ſhe counſelled him to do wicked<g ref="char:EOLhyphen"/>ly, wherefore he did evill in the ſight of the Lord,
+<pb n="3" facs="tcp:154553:5"/>
+               <hi>Chron.</hi> 2.22. <hi>Chap.</hi> 3.4. like the houſe of <hi>Ahab</hi> for they were His Counſellours to his deſtruction; it muſt needs follow that the Rulers are ſuch as their Counſellours be, that there cannot be a good King that ſuffereth wicked Counſellours, if Kings be intruſted with Subjects, Lawes, and Li<g ref="char:EOLhyphen"/>berties, to the end they ſhould maintain them by the beſt meanes they can to the loſſe of life, and inheritance, and yet labour to circumvent them of their Religion, Laws and Liberties, and this be<g ref="char:EOLhyphen"/>ing done in a Kingdome, which is governed by a Parliamentary government, and their Priviledges lying ingaged with the Subjects Lawes and Li<g ref="char:EOLhyphen"/>berties, its time then for that Parliament to be ſtir themſelves and by all the means they can, defend themſelves, their Religion, their Priviledges, with all the faithfull ſubjects, with their Lawes and Liberties, from violence and oppreſſion, and from being delivered into the over ruling power of pa<g ref="char:EOLhyphen"/>piſts and Rebels, and Violaters of Lawes and Li<g ref="char:EOLhyphen"/>berties but now the word Liberty has taken that poſſeſſion in the harts of Engliſh Subjects, that all the Monarchicall Prerogatives in <hi>Oxford,</hi> or elſe<g ref="char:EOLhyphen"/>where cannot tell how either by declaring a<g ref="char:EOLhyphen"/>gainſt it at common Law by the advice of <hi>Bankes,</hi> and <hi>Heath,</hi> or by preferring a Bill in Chancery a<g ref="char:EOLhyphen"/>gainſt it with the advice of <hi>Littelton,</hi> or by thun<g ref="char:EOLhyphen"/>dering ſentencies out of the high Commiſſion and Starre chamber by the Arch-Prelates to put it out of poſſeſſion: when theſe would not do;
+<pb n="4" facs="tcp:154553:6"/>
+to bring their deſigne to perfection, they have thundred forth Proclamations to terrifie the hearts of His Majeſties loyall and faithfull Sub<g ref="char:EOLhyphen"/>jects by proclaiming them Traytours and Rebels, for no other cauſe, then for ſtanding in defence of their Religion, Lawes and Lyberties, And have raiſed an Army to ſuppreſſe their lawfull Parlia<g ref="char:EOLhyphen"/>ment: and now they have perſwaded His Maje<g ref="char:EOLhyphen"/>ſtie to call a Parliament to ſit at <hi>Oxford,</hi> there to ſit in councell (as I conceive) againſt God him<g ref="char:EOLhyphen"/>ſelfe, for the rooting out of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, for the deſtruction of his lawfull Parlia<g ref="char:EOLhyphen"/>ment, and the Lawes and Lyberties of the faith<g ref="char:EOLhyphen"/>full Proteſtants in <hi>England, Scotland,</hi> and <hi>Ireland;</hi> You may ſee to what end they call this great Councell, if we doe but looke backe for ſeven yeares before the ſitting of this Parliament of bleſſed memorie, who ſeeing what action they have continually beene in, as by private wayes and meanes under pretence of Religion, ſtill bringing in ſeverall Innovations into the Church, by limit<g ref="char:EOLhyphen"/>ing the Subjects in their devotion upon Sabbath dayes and others, as if they ſhould have ſaid, God doth not give men the power of prayer, but wee muſt ſet them a Forme how they ſhall pray, and for what; And if they doe not pray thus, God will not heare them, with divers other Cerimoni<g ref="char:EOLhyphen"/>all actions to be uſed in the Church; As to bow to the Table, it being ſet popiſh Altarwiſe, and to bow at the name of Jeſus and in many Churches
+<pb n="5" facs="tcp:154553:6"/>
+and Chappels there was ſet up the Death and Paſſion of our bleſſed Saviour. And in His Ma<g ref="char:EOLhyphen"/>jeſties owne Chappell at <hi>Whitehall,</hi> there was an abſolute Altar, with the holy Booke guarded with Tapers, with worſhipping of God at that Altar, by ſinging of Anthems in their popiſh Coapes; All which being burthens to tender conſciences, cauſed many Miniſters of God rather chooſe to bee ſilenced, other ſome to leave the Kingdom, then to give way to ſuch popiſh Innovations, and to have their conſciences limited to ſuch great in<g ref="char:EOLhyphen"/>conveniences as theſe were, and for other godly learned men, whoſe judgements did foreſee what great oppoſites theſe mountaines would prove, to eclipſe the pure divine worſhip of God for ever being ſetled in the Church of <hi>England.</hi> Theſe men (for the diſcharging of their conſciences to God, as it was his honour that then lay at ſtake, to the people of this Kingdome, as it was the means of their ſalvation that lay at ſtake, by making knowne to the people of this Kingdome, the pri<g ref="char:EOLhyphen"/>vate plots theſe Innovators uſed under the habit of the Proteſtant Religion, for the circumventing of the true Proteſtant Religion,) were ſome of them pillored and Branded, ſome of them had their Eares cut, and ſome wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt, and all of them had the ſentence of perpetuall impriſonment. But it pleaſed God to raiſe himſelfe Inſtruments of honour contrary to their expectation, to caſt out the Babiloniſh government which was crept
+<pb n="6" facs="tcp:154553:7"/>
+into our Church, and to raiſe them up againe, who for a long time before, lay under the heavy bur<g ref="char:EOLhyphen"/>thens of the prelaticall ſuppreſſions, when as the Arch-prelates did ſee that their Gods and god divices muſt be throwne downe by a Reforming Parliament, than they conſpire once more to ex<g ref="char:EOLhyphen"/>aſperate the buſineſſe a little further, and that muſt be done by proteſting againſt all that ever this Parliament had done, to ſee how it pleaſed God they ſhould worke their owne ruine. I verily be<g ref="char:EOLhyphen"/>leeve that proteſtation did diſable them for ever having Vote in Parliaments any more, or to be ſo much honoured as to come into the in-ſide of one or both the Houſes, unleſſe it be to receive ſen<g ref="char:EOLhyphen"/>tence for condigne puniſhment.</p>
+            <p>This former conſideration being well weighed in an even ballance by every true Proteſtant, the conſequence will be, that ſithence they cannot diſinherit us of the pure worſhip of God by fo<g ref="char:EOLhyphen"/>menting our Religion, and ſo conſequently to have diſinherited us of God himſelfe, for where the pure worſhip of God is, there is God him<g ref="char:EOLhyphen"/>ſelfe, by ſubverting our Lawes, by protecting of Papiſts and Recuſants, and profeſt Prieſts and Je<g ref="char:EOLhyphen"/>ſuits from being brought to condigne puniſhment according to the knowne lawes of the Land.</p>
+            <p>It remaines therefore, that they will caſt in one bone more, and try if they can pluck up our Reli<g ref="char:EOLhyphen"/>gion, the parliamentary government, the Lawes of the Kingdome, the Liberties of the Subject, by
+<pb n="7" facs="tcp:154553:7"/>
+the root, ſtriking at the very being of Parliaments. What colour doe you thinke they have for this? They ſay this Parliament is a pretended Parlia<g ref="char:EOLhyphen"/>ment, wherefore they will have an Anti-Parlia<g ref="char:EOLhyphen"/>ment called to ſit at <hi>Oxford,</hi> could not His Maje<g ref="char:EOLhyphen"/>ſties Cabbinet Councell, with their ſtupid injenu<g ref="char:EOLhyphen"/>ous advice, adviſe him to appoint this Antippo<g ref="char:EOLhyphen"/>des to be held at no other place then <hi>Oxford?</hi> there would have been roome enough for himſelfe to have ſate with His lawfull Parliament at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> if He had pleaſed to have come thither, and for His Counſellours too, provided he would br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng them to receive that condigne puniſhment which juſtly they have deſerved. The place where this Anti-parliament muſt be held, is at no other place then <hi>Oxford,</hi> even there, from whence ſhould flow both Milke and Honey, there where the Goſ<g ref="char:EOLhyphen"/>pell of Jeſus Chriſt ſhould be in its greateſt ſplen<g ref="char:EOLhyphen"/>dour; It ſhould be a maine light to the King<g ref="char:EOLhyphen"/>dome, a place where Kings ſhould be inſtructed in the wayes of peace, and not to warre with His own faithfull and loyall Subjects, but to inlarge their Liberties; A place from whence ſhould flow ſuch ſtreames of Soveraigne graces, and ſpirituall Bal<g ref="char:EOLhyphen"/>ſoms as ſhould purge away all Spaniſh and French factious Adviſers from about His Majeſtie, and heale up all differences betwixt His Majeſtie and His faithfull Parliament. But here wee have it quite contrary, for in ſtead of Milke and Honey, thence proceeds gaule and bitterneſſe. In ſtead of
+<pb n="8" facs="tcp:154553:8"/>
+giving light to the Kingdome, it yeelds nothing but darkneſſe: In ſtead of Inſtructing the King in the wayes of peace, there he is adviſed to warre againſt his lawfull Parliament: In ſtead of purging ſtreames, to purge away Factious adviſers, there are Rivers that increaſe, and bring them to His Majeſtie: In ſtead of healing up the differences that are betweene His Majeſtie and His Parlia<g ref="char:EOLhyphen"/>ment, there is greater differences made: In ſtead of Adviſing His Majeſtie to come and ſit with His lawfull Parliament, He is there adviſed to call an Anti-Parliament in oppoſition to His lawfull Parliament. This proves the place to be Antip<g ref="char:EOLhyphen"/>podes.</p>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:154553:8"/>
+            <head>Now it remaines,</head>
+            <list>
+               <item>
+                  <hi>1.</hi> VVHo it is that calls this Anti-Par<g ref="char:EOLhyphen"/>liament.</item>
+               <item>
+                  <hi>2.</hi> Secondly, who they are that are called to ſit in this Parliament.</item>
+               <item>
+                  <hi>3.</hi> Thirdly, what this Parliament in it ſelfe is, that is called, when the Members of it are in one Body.</item>
+               <item>
+                  <hi>4.</hi> Fourthly, to what end this Parliament is called.</item>
+               <item>
+                  <hi>5.</hi> Fifthly, what they are in their Religion, Lives, and Converſations, that beare Armes for the defence of this Parliament.</item>
+               <item>
+                  <pb n="10" facs="tcp:154553:9"/>
+                  <hi>6.</hi> Sixthly, that the Parliament now ſitting at <hi>Weſtminſter</hi> is the abſolute lawfull Parlia<g ref="char:EOLhyphen"/>ment.</item>
+               <item>
+                  <hi>7.</hi> Seventhly and laſtly, that whatſoever is done againſt this lawfull Parliament by the Anti-Parliament, is againſt God, Religion, and the Lawes and Liberties of the Subjects of <hi>England.</hi>
+               </item>
+            </list>
+            <div n="1" type="question">
+               <pb n="11" facs="tcp:154553:9"/>
+               <head>
+                  <hi>Queſtion 1.</hi> Who is it that calls this Parliament.</head>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>IT is the King; and true it is, Kings may Command, and Subjects ought to obey their King ſo farre forth as hee ſhall Com<g ref="char:EOLhyphen"/>mand them nothing but what is warrantable by holy Writ, and the Lawes of the Land where he Rules. The name of a King that Rules with wiſ<g ref="char:EOLhyphen"/>dome and knowledge, with peace and Tranquili<g ref="char:EOLhyphen"/>tie, revives the ſpirits of his faithfull Subjects, when as the name of an obſtinate King, that rules by a Tyrannicall government ſtrikes terrour, and makes them careleſſe in their dutie to their Prince. That King who by his ruling in Juſtice, hath the love of all his faithfull Subjects, ſeemes glorious
+<pb n="12" facs="tcp:154553:10"/>
+in his Throne, and terrible to his enemies; The King is to be ruled by Law, ſo well as to rule by Law, as by making the Law his guide or rule how to governe his people in love; it is a charge layd upon the King expreſly, the 17 <hi>Deut.</hi> 18.19.20. verſes, That when he ſhall ſit upon the Throne of his Kingdome, then ſhall he write him this Law, and in the next verſe, <hi>And it ſhall bee with him,</hi> and he ſhall read them therein all dayes of his life, that he may learne to feare the Lord his God, to keepe all the words of this Law, and theſe ordi<g ref="char:EOLhyphen"/>nances for to doe them, that his heart be not lifted up above his brethren; whereby is meant, that Kings ought to love their Subjects as nature bind<g ref="char:EOLhyphen"/>eth one brother to love another, and Kings are to rule by Law, and the Law is to be grounded upon the word of God, that ſo it be, what the Law commands, God commands; And what King ſo<g ref="char:EOLhyphen"/>ever he be, that commands any thing contrary to Law, the Subject may refuſe to obey. Hence it is that the lawes of <hi>England</hi> being grounded upon the law of God, the King having already called a Parliament to ſit at <hi>Weſtminſter</hi> according to the Cuſtomes the Law doth allow of, and as yet not lawfully diſſolved. Bee it to that Sub<g ref="char:EOLhyphen"/>jects conſcience that ſhall now obey the Kings Command to ſit in his Anti-Parliament, and to diſert his lawfull Parliament, before ſuch time as the worke be finiſht, to which end they were ſum<g ref="char:EOLhyphen"/>moned; As to roote out popery out of this King<g ref="char:EOLhyphen"/>dome
+<pb n="13" facs="tcp:154553:10"/>
+to redeem the Subjects out of oppreſsions Courts; and out of the hands of oppreſsions Mo<g ref="char:EOLhyphen"/>nopoliſts, and to bring Offenders and Delinquents to condigne puniſhment; But if this had been done, there would be no Anti-Parliament at all, unleſſe his Majeſtie would ſit by himſelfe, there would bee no Inſcendiaries left to ſit with him, which brings me to the ſecond thing.</p>
+            </div>
+            <div n="2" type="question">
+               <pb n="14" facs="tcp:154553:11"/>
+               <head>
+                  <hi>Queſtion. 2</hi> Who they are that are ſummoned to ſit in this Anty-Parliament.</head>
+               <p>Anſwer.</p>
+               <p>PArliament ſaid I, the name of a Parliament is the greateſt comfort Engliſh Subjects, have. Lawfull Parliaments reforme Kings, and their Lawes, if they be not grounded upon the Law of God, they have power to repeal them, and chooſe ſuch Lawes as ſhall be rules where<g ref="char:EOLhyphen"/>by the King ſhall rule his people according to the revealed will of God, we cannot expect theſe comfortable effects from this Anty-Parliament, as might be expected by faithfull and religious Subjects from a faithfull and religious Parlia<g ref="char:EOLhyphen"/>mentary Councell, perhaps you will ſay the King himſelfe ſits here; Its true he does the preſence<g ref="char:EOLunhyphen"/>ment,
+<pb n="15" facs="tcp:154553:11"/>
+of a gracious Prince does animate a lawfull Par<g ref="char:EOLhyphen"/>liament to goe on couragiouſly for the advancing Religion, Lawes and Liberties for the throwing downe of Antichriſt and Antichriſtian govern<g ref="char:EOLhyphen"/>ment, but this muſt not be expected here, al<g ref="char:EOLhyphen"/>though the King be there in perſon, for by this you may ſee of what value his Proteſtations and Declarations have bin all along from the firſt time he left his Parliament he proteſted alwayes he aimed at no other then to maintain the Prote<g ref="char:EOLhyphen"/>ſtant Religion the Priviledges of that Parliament, which at that time, and now, ſitteth at <hi>Weſtminſter,</hi> the Lawes of the land and the Liberty of the Subject, he hath called God to witneſſe to theſe his proteſtations, and yet uſed all the meanes poſ<g ref="char:EOLhyphen"/>ſible, by blood thurſting inſtruments, to kill and ſtay all his faithfull and loyall Subjects to fire their houſes, plunder their eſtates, when all this would not doe, hath ſummoned all thoſe together, who were his adviſers to forſake his Parliament, to ſit in Councell with him in his Anty-Parlia<g ref="char:EOLhyphen"/>ment, where he will be furniſht with Councells of all ſorts, there will be Counſellors to adviſe him how to puniſh Fomenters of Religion and ſubverters of the lawes of the Kingdome, and in fringers of the Subjects Liberty, ſuch as will ad<g ref="char:EOLhyphen"/>viſe him how to thruſt out the Spaniſh and French factions, ſuch as will adviſe him, how to puniſh ſuch as ſhall betray the truſt that the faithfull Sub<g ref="char:EOLhyphen"/>jects of <hi>England</hi> have intruſted them with, ſuch as Subjects
+<pb n="16" facs="tcp:154553:12"/>
+will adviſe his Majeſty, how to bring to con<g ref="char:EOLhyphen"/>digne puniſhment, all ſuch as have had Articles of high Treaſon drawn againſt them, ſuch as ſhall adviſe his Majeſty how to gaine the love of his Subjects, and to ſecure his owne Crown and dignity.</p>
+               <p>As for example the Arch-prelates of <hi>Armagh</hi> and <hi>Yorke,</hi> and Doctor <hi>Fearn,</hi> they will adviſe his Majeſty, how to puniſh Fomenters of Religion, by Inacting this preſent Parliament that Epiſco<g ref="char:EOLhyphen"/>pacy with <hi>Iuredivino</hi> may ſtand in full force, &amp; ver<g ref="char:EOLhyphen"/>tue with the triple Crowne, Juſtice <hi>Bankes,</hi> and Juſtice <hi>Heath,</hi> and <hi>Holborn,</hi> will adviſe his Majeſty how to puniſh Subverters of the Lawes of the Land by Inacting this their preſent Parliament that all ſuch cauſes which have been tried and ad<g ref="char:EOLhyphen"/>judged at <hi>Weſtminſter</hi> ſithence his Majeſties Pro<g ref="char:EOLhyphen"/>clamation for the adjurning the Terme to <hi>Oxford,</hi> the Judgements are of no force nor virtue, but are contrary to the fundamentall lawes of the King<g ref="char:EOLhyphen"/>dome, Sir <hi>Ralph Dutton</hi> and Sir <hi>Henry Poole</hi> will adviſe his Majeſty to puniſh Infringers of the Subjects Liberty, by Inacting that Parlia<g ref="char:EOLhyphen"/>ment, that no Clothier in <hi>Gloceſterſhire</hi> ſhall make any cloath without paying to his Majeſty one ſhilling <hi>per peece,</hi> and to themſelves two ſhillings. The Earle of <hi>Briſtoll</hi> and the Lord <hi>Cottington</hi> will adviſe his Majeſty how to thruſt out of his King<g ref="char:EOLhyphen"/>dom, the French and ſpaniſh factions by making an Act this preſent Parliament, for the eſtabliſhing
+<pb n="17" facs="tcp:154553:12"/>
+the Inquiſition, the high Commiſſion I would have ſaid, in this Kingdome, and to keepe an Ar<g ref="char:EOLhyphen"/>my one foote, to keepe his Subjects in ſubiection to the Commiſſion of Aray. Sir <hi>Faithleſse Foſ<g ref="char:EOLhyphen"/>cu</hi> and the Lord <hi>Littelton,</hi> will adviſe his Majeſty how to puniſh all ſuch as betray the truſt that the Subjects of <hi>England</hi> intruſt them withall, by ma<g ref="char:EOLhyphen"/>king an Act, that it was lawfull for the one after ſo many Proteſtations as he did make to be faith<g ref="char:EOLhyphen"/>full unto the imployment which he had underta<g ref="char:EOLhyphen"/>ken; yet afterwards to betray the lives of divers men into the hands of their cruell Enemies, and for the other to betray the Kingdomes Seale; from the body of the Kingdome, to be a colour for mercileſſe actions. The Lord <hi>Digby</hi> &amp; the pre<g ref="char:EOLhyphen"/>tended Lord <hi>Germin,</hi> will adviſe his Majeſty how to bring to condigne puniſhment all thoſe who have had Articles of high Treaſon drawne againſt them, by making an Act that it is lawfull for any ſuch perſon if he make an eſcape before ſuch time as he hath bintryed upon the ſaid Ar<g ref="char:EOLhyphen"/>ticles of high Treaſon, to betake himſelfe to his Majeſties Court for Sanctuary, and there to be re<g ref="char:EOLhyphen"/>ceived into his Majeſties grace and favour, and to be of his Counſell this preſent Parliament. Prince <hi>Rupert</hi> and the pretended Lord <hi>Byron,</hi> will adviſe his Majeſty how to gaine the love of all his faithfull Subjects and for the ſecuring of his owne Crowne and dignity, by making an Act, that it is lawfull for any Commanders and Soul<g ref="char:EOLhyphen"/>diers
+<pb n="18" facs="tcp:154553:13"/>
+that are now in Armes for the defence of the King and this Parliament, to take plunder, and fire all ſuch Townes, in the Kingom of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> or <hi>Scotland</hi> or <hi>Ireland,</hi> as the inhabi<g ref="char:EOLhyphen"/>tants thereof ſhall oppoſe the Aray govern<g ref="char:EOLhyphen"/>ment. Thus having ſhewed you who they are that are called to ſit in this Parliament, I come now to the third Queſtion.</p>
+            </div>
+            <div n="3" type="question">
+               <pb n="19" facs="tcp:154553:13"/>
+               <head>
+                  <hi>Queſtion. 3.</hi> What Parliament this is when the Members of it are together in one body.</head>
+               <p>Anſwer.</p>
+               <p>IT is an Antippodes or Anty-Parliament the ra<g ref="char:EOLhyphen"/>ther called Antippodes in regard of the con<g ref="char:EOLhyphen"/>trariety of the place where this Councell is held, as I ſhewed you before, an Antippodes in regard of the contrariety in their ſeverall Councells, as for example, inſtead of puniſhing Fomenters of the Proteſtant Religion, they get Acts for the ſetting up of Popery. Inſtead of puniſhing the Subverters of the Lawes of the Land, they ſub<g ref="char:EOLhyphen"/>vert the Lawes themſelves inſtead of puntſhing Infringers of the Subjects Liberty, they Inact Monoppolies to be lawfull and ſo it is in all the
+<pb n="20" facs="tcp:154553:14"/>
+reſt of their proceedings. Wherefore I conceive it deſerves not the name of a Parliament, for Par<g ref="char:EOLhyphen"/>liaments reforme all things that are amiſſe, Inact good and wholſome Lawes and Priviledges, whereas on the contrary this Anty-labers all it can to confound wholſome Lawes and Liberties, which brings me to the fourth queſtion.</p>
+            </div>
+            <div n="4" type="question">
+               <pb n="21" facs="tcp:154553:14"/>
+               <head>
+                  <hi>Queſtion. 4.</hi> To what end this Parliament is called.</head>
+               <p>Anſwer.</p>
+               <p>VVHich I ſhall anſwer upon this conſide<g ref="char:EOLhyphen"/>ration, if you pleaſe to conſider their ſe<g ref="char:EOLhyphen"/>verall proceedings from the firſt beginning of theſe unhappy differences, and who they are that ſit in this great Councell, you will eaſily finde to what end this Anty Parliament was called, it was called to this very end and purpoſe that ſeeing they could not by all the meanes they have uſed hitherto, as by the Kings Majeſties de<g ref="char:EOLhyphen"/>ſerting his lawfull Parliament by the Arch-popiſh Prelates proteſting againſt all that ever was done in that Parliament, by their inſinuating his Majeſty to take up Armes againſt his Parliament, as alſo
+<pb n="22" facs="tcp:154553:15"/>
+by his Majeſties countenancing ſo many popiſh Lords and Delinquents to his palriament, in kee<g ref="char:EOLhyphen"/>ping them from being brought to condigne pu<g ref="char:EOLhyphen"/>niſhment, according to the Law of the Land, all this being done, under pretence of monarchicall power and prerogative, when all this would not inforce his parliament abſolutely to diſſolve, and leave themſelves and thoſe Subjects who had in<g ref="char:EOLhyphen"/>truſted them with their lives, &amp; Eſtates, to the mer<g ref="char:EOLhyphen"/>cy of tyrannicall government, but have uſed all juſt and lawfull meanes to defend their Religion, Lawes and Liberties, even at that very time is this Anty-parliament called, thinking thereby to root, out all at once, Religion, parliament, Law and Liberty. Argue but thus and we ſhall finde by what the Counſellors are what the Counſells, as if the Counſell be invected with popery, the ad<g ref="char:EOLhyphen"/>vice muſt needs be for popery, if the Counſel<g ref="char:EOLhyphen"/>lors be invective with ſubvertion of Lawes, the advice is for to ſubvert Laws, if the Councel<g ref="char:EOLhyphen"/>lours be invective with Spaniſh and French factions, the Counell muſt needs be for Inqui<g ref="char:EOLhyphen"/>ſition and Aray; f the Counſellors be invective to Monopoliſeing, the Counſell muſt needes be for Monoppolies, if the Counſellors be invective to plundering, the adviſe muſt needs be for plun<g ref="char:EOLhyphen"/>dering and fireing of Townes, if the Counſellors be invective to Treaſon, the advice of thoſe Coun<g ref="char:EOLhyphen"/>ſellours muſt needes be Treachery: Now heare you may ſee to what end this Anty-parliament was
+<pb n="23" facs="tcp:154553:15"/>
+called. Now Engliſh faithfull Subjects looke to your ſelves, for if this Anty-Counſell goe on here is treachery a plotting to take away your Religion, to ſubvert your Lawes, to In<g ref="char:EOLhyphen"/>fringe your Liberties, and to roote up the being of parliaments, all theſe to be blaſted by this Anty-parliament (if it hold) at one time. Thus have I anſwered the fourth queſtion and now come to the fifth.</p>
+            </div>
+            <div n="5" type="question">
+               <pb n="24" facs="tcp:154553:16"/>
+               <head>
+                  <hi>Queſtion 5.</hi> Who and what they are in their lives and conver<g ref="char:EOLhyphen"/>ſations that take up Armes in defence of this Anti-Parliament.</head>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>AS for their Generall Prince <hi>Rupert,</hi> it is well knowne what hee is, both for his life and converſation, glorying in nothing but liſentious luxuries, and plundering His Majeſties loyall and faithfull Subjects: all his Ambition is to get him<g ref="char:EOLhyphen"/>ſelfe an inheritance by the deſtruction of our Lawes and Liberties, by an over-ruling power, with his Majeſties aſſent, witneſſe ſo many Towns, as <hi>Banbury, Brummidgham</hi> and others, which he hath fired and plundered. So likewiſe for the reſt of the Commanders that are joyned with him. How many knowne Papiſts are there that
+<pb n="25" facs="tcp:154553:16"/>
+have taken up Armes in this unnaturall Warre. What elſe can we expect from ſuch whoſe Reli<g ref="char:EOLhyphen"/>gion is a blood-thirſty Religion; It allows them to maſſacre thoſe that profeſſe the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and can we thinke they will fight for the Proteſtant Religion. Oh! let us not ſooth up our ſelves with ſuch fooliſh fancies; As for thoſe of their Commanders that are not profeſt Papiſts, as the pretended Lord <hi>Byron,</hi> the Lord <hi>Wilmoi,</hi> and <hi>Neale</hi> that was their Scout-Maſter, they are worſe then thoſe who are profeſt papiſts; They are like to ſubtile Woolves, who devoure Lambes in ſheeps cloathing, who pretend they fight for the prote<g ref="char:EOLhyphen"/>ſtant Religion, when indeed they labour all that in them lyeth for to deſtroy it. As for <hi>Neale,</hi> hee hath beene one of the greateſt high-way rob<g ref="char:EOLhyphen"/>bers this day in the Kingdome, yet now Knighted by his Majeſtie. Is it poſſible for thoſe men to fight for the Proteſtant Religion, who joyned in Commotion with profeſt Papiſts, Engliſh and I<g ref="char:EOLhyphen"/>riſh Rebels, and fight for one and the ſame cauſe with them, and plot and contrive how they ſhall deſtroy ſuch a Parliament as ſhall be lawfully cal<g ref="char:EOLhyphen"/>led for the defence of the proteſtant Religion. The proteſtant Religion cannot be maintained by ſuch unjuſt meanes. If ſuch are the Commanders what are the inferiour Officers and Souldiers? as for them there are a great many profeſt Papiſts and Iriſh Rebels, Patentees and Serving-men, broken Tradeſmen, Proctors and Officiates, Stage-players,
+<pb n="26" facs="tcp:154553:17"/>
+Fidlers, and Highway men, and a great many of ignorant Welchmen. The papiſts and I<g ref="char:EOLhyphen"/>riſh Rebels they will fight in defence of this Anti-parliament, againſt the lawfull Parliament, becauſe they know that if the parliament get the day, there will be a reformation of the proteſtant Religion, and popery ſhould downe quite, and the Iriſh Rebels would be quailed, and therefore they will fight it out to the laſt, for their Religion lyeth at ſtake as well as their ſelves. The Patentees they will fight, they will joyne with the reſt, they know if the King with his Anti-parliament get the day, they ſhall renew their Patents, which if the lawfull parliament get the day, their hopes will bee fru<g ref="char:EOLhyphen"/>ſtrate forever Monopolizing more. The Serving<g ref="char:EOLhyphen"/>men they will fight too in defence of this Anti-parliament, becauſe their Maſters doe; as if their Maſters goe to hell, they will goe too for compa<g ref="char:EOLhyphen"/>ny. There are broken Tradeſmen in this Army that will fight againſt the lawfull parliament, be<g ref="char:EOLhyphen"/>cauſe they will not alow them Protections where<g ref="char:EOLhyphen"/>by they might walke the ſtreetes in deſpight of their Creditors. The Proctors they will fight a<g ref="char:EOLhyphen"/>gainſt this parliament, in hope his Majeſtie and his Anti-parliament will get the day, and then there will be Trading enough at Doctors Commons, for there would bee more Holy-dayes then ever there was, and <hi>Etcetera</hi> as common as ever it was, and therefore they will fight and make as ſtrong a party as they can againſt that parliament, that hath
+<pb n="27" facs="tcp:154553:17"/>
+beene the cauſe of their downfall. The Stage-players they will fight againſt the Reforming parliament, for they reforme Church and people, they will not ſuffer more Stage-playes, and by this conſequence their trading is quite put downe, but yet if there could be but a putting downe of this parliament, the King would ſet their Trade in as great eſtimation as ever it was, and there<g ref="char:EOLhyphen"/>fore they will joyne alſo with the reſt, and try if they can beate this Reforming parliament out of all. The High-way men they will fight in this cauſe, for that the King alloweth his Souldi<g ref="char:EOLhyphen"/>ers good ſtore of plunder, and then they ſhall not need to feare hanging for robbing their neigh<g ref="char:EOLhyphen"/>bours. The ignorant Welchmen they will fight too, but it is for no reaſon at all, but becauſe hur King is in the field, tell not hur of Religions nor Lawes, nor of a Parliament, for hur fight for hur King againſt them all.</p>
+               <p>All this while there is no queſtioning what Re<g ref="char:EOLhyphen"/>ligion they fight for, only by the profeſt Papiſts, and all the reſt fight for their owne by ends, and yet all againſt the Proteſtant Religion, and a law<g ref="char:EOLhyphen"/>full Parliament, and the Lawes and Liberties of Engliſh Subjects.</p>
+               <p>Here you ſee plainly what ſorts of men they are, that are in this Army, and as they are drawne up in Battalia they ſeeme to bee a great many, and who but the profeſt Papiſts have more care of
+<pb n="28" facs="tcp:154553:18"/>
+foules well-fare then the ſeeming Proteſtant, in regard they fight for the advancement of their owne Religion, and the other for the exhauſting their owne by-ends and reſpects, never thinking of the advancement of the Religion they profeſſe but fight againſt it. Now the next thing is to prove this Parliament the lawfull Parliament.</p>
+            </div>
+            <div n="6" type="question">
+               <pb n="29" facs="tcp:154553:18"/>
+               <head>
+                  <hi>Queſtion 6.</hi> That the Parliament now ſitting at <hi>Weſtminſter</hi> is the abſolute lawfull Parliament?</head>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>TO prove that this Parliament is a lawfull Parliament, I ſhall not need much to diſpute, For that Parliament that is lawfully called, is a lawfull parliament; To prove that this Parlia<g ref="char:EOLhyphen"/>ment was lawfully called, is onely thus; His Ma<g ref="char:EOLhyphen"/>jeſtie ſending forth His Writs to the Sheriffes of every City, Burrough, County, and Corporation in the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> giving them full power &amp; Authority to ſum<g ref="char:EOLhyphen"/>mon the Freeholders of their ſeverall Cities, Burroughs, Counties and Corporations, to meet at their uſuall places of meetings, There freely to Elect and chooſe by voyce or pole, ſuch men for Knights and Burgeſſes for their ſeverall Cities, Boroughs, Counties and Corporations, as the ma<g ref="char:EOLhyphen"/>jor
+<pb n="30" facs="tcp:154553:19"/>
+part of them ſhall chooſe, and theſe Knights and Burgeſſes are to meet at ſuch time and place as ſhall be expreſſed in His Majeſties Warrant. Thus was this parliament called, and if thus lawfully called, then no queſtion it is a lawfull parliament; If this be not ſufficient to prove it ſo you have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Majeſties own Act. For it is enacted by the King, the Lords and Commons in this preſent parlia<g ref="char:EOLhyphen"/>ment, that it ſhall not be diſſolved without a ge<g ref="char:EOLhyphen"/>nerall conſent of both the ſaid Houſes. Thus is this parliament proved to be the abſolute lawfull parliament of <hi>England.</hi> Hence it is that this muſt be lawfully diſſolved, before there can be another lawfully called in <hi>England;</hi> For it is as poſſible for two Suns to bee in one Horizon, as two lawfull par<g ref="char:EOLhyphen"/>liaments at one inſtant of time in the Kingdome of <hi>England,</hi> but it is with them of this Anti-par<g ref="char:EOLhyphen"/>ty in this caſe, as in all the reſt hitherto, al<g ref="char:EOLhyphen"/>wayes labouring againſt this Parliament, that if once they could get it downe, it ſhould never riſe againe. And ſeeing they could not prevaile, they will now have ſome colour for their rebellious a<g ref="char:EOLhyphen"/>ctions. They will have an Anti-Parliament to fight for; So by this thinke to m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke good all their acti<g ref="char:EOLhyphen"/>ons by having Acts made, that what ever they have done was lawfull, why? becauſe it was done in defence of the King and their Parliament, as it was in defence of thoſe who now are called to ſit in that parliament.</p>
+               <p>Sithence it is ſo that His Majeſty and his Queen
+<pb n="31" facs="tcp:154553:19"/>
+band themſelves together, with popiſh Rebells and Traitors, with other Incendiaries to this State and Kingdome, againſt God, the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, the lawfull parliament of <hi>England,</hi> the Lawes of the Land, the Liberty of the Subject, let us breake their bonds and caſt their cordes from us, and now ſtand up for the Goſpell of Ieſus Chriſt, by ſtanding againſt thoſe who labour to diſinherit us of a faithfull parliament, and of the pure worſhip of God, and ſo conſequently of God himſelfe, this muſt be done by uniteing our ſelves together in that faithfull Covenant ſet forth by order of parliament, covenanting with our ſelves that we will ſtand in defence of our lawfull and juſt reforming parliament, to the loſſe of Lives and Eſtates, againſt all that ever ſhall oppoſe it, withall bleſſing God that ever he ſent us ſuch a parliament, to ſtand ſoe faithfully for the honour of God, for the advancement of his Goſ<g ref="char:EOLhyphen"/>pell and for their owne priviledges, and for the Lawes, of the Land and the Subjects Liberty, as this parliament has done, let them not want your prayers, let them not want your perſons to inco<g ref="char:EOLhyphen"/>rage them, nor your Eſtates to advance that cauſe they have undertaken for Gods glory, and for your future comforts, and without all doubt the God of Heaven will ſtand for you, if you will ſtand for the advancing of his Goſpell, and you ſhall find that the Conſpiracies of papiſts and Traitors,
+<pb n="33" facs="tcp:154553:20"/>
+nor the murmuring of malignants, and the power of Kings ſhall not prevaile againſt the Cauſe of Chriſt; For God is a light to comfort his people, and a fire to burne his Enemies.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is licenſed and Entered into the Hall-booke according to Order.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
